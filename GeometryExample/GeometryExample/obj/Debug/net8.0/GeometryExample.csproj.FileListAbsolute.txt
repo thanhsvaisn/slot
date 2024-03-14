@@ -1,0 +1,4 @@
+D:\C#\GeometryExample\GeometryExample\obj\Debug\net8.0\GeometryExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\GeometryExample\GeometryExample\obj\Debug\net8.0\GeometryExample.AssemblyInfoInputs.cache
+D:\C#\GeometryExample\GeometryExample\obj\Debug\net8.0\GeometryExample.AssemblyInfo.cs
+D:\C#\GeometryExample\GeometryExample\obj\Debug\net8.0\GeometryExample.csproj.CoreCompileInputs.cache
